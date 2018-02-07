@@ -9,7 +9,7 @@
 
 
   ## Database
-![alt text](https://raw.githubusercontent.com/newtein/Python-Scraping/master/3.%20Jaypee_Faculty_Scrap/images/3.%20Database 1.JPG)
+![alt text](https://raw.githubusercontent.com/newtein/Python-Scraping/master/3.%20Jaypee_Faculty_Scrap/images/3.%20Database%201.JPG)
  
 
 
